@@ -1,1 +1,1 @@
-# duet_project
+Hello duet! How are you?
