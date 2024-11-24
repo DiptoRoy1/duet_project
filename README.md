@@ -1,1 +1,1 @@
-Hello duet! How are you? I am fine.
+Let's learn programming and have a fun!
